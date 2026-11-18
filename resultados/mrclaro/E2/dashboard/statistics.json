@@ -1,0 +1,34 @@
+{
+  "carga-volume" : {
+    "transaction" : "carga-volume",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 7.219330000000082,
+    "medianResTime" : 7.0,
+    "minResTime" : 3.0,
+    "maxResTime" : 390.0,
+    "pct1ResTime" : 9.0,
+    "pct2ResTime" : 12.0,
+    "pct3ResTime" : 18.0,
+    "throughput" : 1288.7428313680005,
+    "receivedKBytesPerSec" : 11.326841291320317,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100000,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 7.219330000000082,
+    "medianResTime" : 7.0,
+    "minResTime" : 3.0,
+    "maxResTime" : 390.0,
+    "pct1ResTime" : 9.0,
+    "pct2ResTime" : 12.0,
+    "pct3ResTime" : 18.0,
+    "throughput" : 1288.7428313680005,
+    "receivedKBytesPerSec" : 11.326841291320317,
+    "sentKBytesPerSec" : 0.0
+  }
+}

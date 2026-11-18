@@ -12,10 +12,13 @@
     },
     {
       "integrante": 2,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Adryan Gustavo Marques Claro",
+      "ra": "270690",
+      "github": "mrclaro",
+      "emails": [
+        "adryan.contatoprofissional@gmail.com",
+        "270690@unifio.edu.br"
+      ]
     },
     {
       "integrante": 3,
@@ -26,13 +29,6 @@
     },
     {
       "integrante": 4,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
-    },
-    {
-      "integrante": 5,
       "nome": "",
       "ra": "",
       "github": "",
