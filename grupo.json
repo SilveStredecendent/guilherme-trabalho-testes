@@ -5,10 +5,13 @@
   "integrantes": [
     {
       "integrante": 1,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Herbert de Sousa Santos",
+      "ra": "271309",
+      "github": "SilveStredecendent",
+      "emails": [
+        "herbert.sousa@unifio.edu.br",
+        "herbertdesousasantos31@gmail.com"
+      ]
     },
     {
       "integrante": 2,
