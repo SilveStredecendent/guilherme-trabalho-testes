@@ -35,10 +35,13 @@
     },
     {
       "integrante": 4,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Matheus Gabriel de Souza",
+      "ra": "273727",
+      "github": "Matheuxx0",
+      "emails":[ 
+      "matheusgsouza_07@hotmail.com",
+      "273727@unifio.edu.br"
+      ]
     }
   ]
 }
