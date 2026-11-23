@@ -66,8 +66,8 @@ describe('Testes Unitários - Herbert (Integrante 1)', () => {
 
   test('CT17 repo.listarCategorias falha com new Error("banco fora do ar")', async () => {
     const repo = criarRepoMock();
-    repo.listarCategorias.mockRejectedValue(new Error('banco fora do ar')); // o mock FALHA
-    jest.spyOn(console, 'error').mockImplementation(() => {});              // só silencia o log do erro
+    repo.listarCategorias.mockRejectedValue(new Error('banco fora do ar'));  
+    jest.spyOn(console, 'error').mockImplementation(() => {});               
     const app = criarApp(repo);
 
     const res = await request(app).get('/categorias');
