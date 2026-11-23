@@ -25,17 +25,23 @@
     },
     {
       "integrante": 3,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Gustavo Benito Quinalha Damiatti",
+      "ra": "270795",
+      "github": "GustavoBenito12",
+      "emails": [
+        "gustavobentio54@gmail.com",
+        "270795@unifio.edu.br"
+    ]
     },
     {
       "integrante": 4,
-      "nome": "",
-      "ra": "",
-      "github": "",
-      "emails": []
+      "nome": "Matheus Gabriel de Souza",
+      "ra": "273727",
+      "github": "Matheuxx0",
+      "emails":[ 
+      "matheusgsouza_07@hotmail.com",
+      "273727@unifio.edu.br"
+      ]
     }
   ]
 }
