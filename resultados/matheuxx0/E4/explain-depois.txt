@@ -1,0 +1,1 @@
+'1', 'SIMPLE', 'produtos', NULL, 'range', 'idx_produtos_descricao', 'idx_produtos_descricao', '482', NULL, '125', '100.00', 'Using index condition'
